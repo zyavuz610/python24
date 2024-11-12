@@ -1,2 +1,2 @@
-# ekrana hello yazacak
-print("Hello")
+# ekrana hello bursa yazacak
+print("Hello", "Bursa")
