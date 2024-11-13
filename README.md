@@ -13,5 +13,5 @@ Bu kursta aşağıdaki konular mevcut.
   * pandas
   * matplotlib
 * temel linux komutları
-* github
+* github ve öernek repo oluşturma
 
