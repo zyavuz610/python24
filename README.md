@@ -14,4 +14,3 @@ Bu kursta aşağıdaki konular mevcut.
   * matplotlib
 * temel linux komutları
 * github ve öernek repo oluşturma
-
