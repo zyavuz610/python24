@@ -2,5 +2,3 @@
 print("Hello", "Bursa")
 print("Hello", "Bursa", sep="***")
 print("-"*60)
-
-
